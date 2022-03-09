@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rushil-b-patel
 - 👀 I’m interested in programming, software & website development, website desiging, and other creativity stuff.
-- 🌱 I’m currently pursuing computer science degree at CHARUSAT University.
-- 💞️ I’m looking to collaborate on projects, events and other group coordination projects.
-- 📫 How to reach me ? You can mail me "rushil13579@gmail.com".
+- 🌱 Currently pursuing computer Science & Engineering at CHARUSAT University(DEPSTAR).
+- 💞️ Upto Something Great...
 
 <!---
 rushil-b-patel/rushil-b-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
