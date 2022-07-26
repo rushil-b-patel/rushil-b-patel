@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rushil-b-patel
-- 👀 I’m interested in programming, software & website development, website desiging, and other creativity stuff.
+- ⌨️ C/C++
 - 🌱 Currently pursuing computer Science & Engineering at CHARUSAT University(DEPSTAR).
 - 💞️ Upto Something Great...
 
