@@ -3,7 +3,7 @@
 - 👨🏻‍💻 JAVA
 - 🐍 Python
 - 🎨 Adobe Express,Illustrator, Photoshop, Canva.
-- 🌱 Currently pursuing computer Science & Engineering at CHARUSAT University **[2021-2025]**
+- 🌱 Currently pursuing Computer Science & Engineering at CHARUSAT University **[2021-2025]**
 - 💞️ Upto Something Great...
 
 <!---
