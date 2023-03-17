@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rushil-b-patel
 - ⌨️ C/C++
 - 👨🏻‍💻 JAVA
+- 🐍 Python
 - 🎨 Adobe Express,Illustrator, Photoshop, Canva.
-- 🌱 Currently pursuing computer Science & Engineering at CHARUSAT University(DEPSTAR).
+- 🌱 Currently pursuing computer Science & Engineering at CHARUSAT University **[2021-2025]**
 - 💞️ Upto Something Great...
 
 <!---
