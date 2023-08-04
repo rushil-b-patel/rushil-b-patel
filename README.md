@@ -2,6 +2,7 @@
 - ⌨️ C/C++
 - 👨🏻‍💻 JAVA
 - 🐍 Python
+- 🥂 React
 - 🎨 Adobe Express,Illustrator, Photoshop, Canva.
 - 🌱 Currently pursuing Computer Science & Engineering at CHARUSAT University **[2021-2025]**
 - 💞️ Upto Something Great...
