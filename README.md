@@ -67,7 +67,8 @@
 
 ###
 
-<h2 align="left">My Socials...</h2>
+<h2 align="left">My SOCIALS...!</h2>
+<div align="left">
   <a href="https://www.linkedin.com/in/rushil-b-patel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -84,6 +85,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rushil-b-patel/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
