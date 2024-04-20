@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Computer Science Student at CHARUSAT University.</p>
+<p align="left">Computer Science Student at CHARUSAT University.</p>
 
 ###
 
