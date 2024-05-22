@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ MERN Stack Developer<br>👩🏽‍💻 Java, C/C++, Python<br>🎲 Upto Something Great...</p>
+<p align="left">✨ MERN Stack Developer<br>👩🏽‍💻 Java, C/C++<br>🎲 Upto Something Great...</p>
 
 ###
 
