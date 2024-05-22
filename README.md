@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science Student at CHARUSAT University.</p>
+<h2 align="left"> B.Tech [CSE'25] </h2>
 
 ###
 
