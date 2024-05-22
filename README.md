@@ -58,8 +58,5 @@
   </span>
 </div>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rushil-b-patel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-profile-trophy.vercel.app/?username=rushil-b-patel&theme=discord&no-frame=false&no-bg=true&margin-w=4)
