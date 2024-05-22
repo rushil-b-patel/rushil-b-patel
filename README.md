@@ -59,4 +59,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rushil-b-patel&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rushil-b-patel&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rushil-b-patel&icon=0&color=0)](https://visitcount.itsvg.in)
