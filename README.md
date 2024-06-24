@@ -6,10 +6,10 @@
 🔭 Currently working on MERN Stack Development<br>💬 Ask me about MERN & CP
 
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rushil_b_patel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushil_b_patel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushil-b-patel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/25128671/rushil-patel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/www.x.com/rushil_b_patel) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -51,7 +51,7 @@
 ## Miscellaneous
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-# 📊 GitHub Stats:
+## Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-b-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br/>
   <span>
@@ -60,7 +60,7 @@
   </span>
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rushil-b-patel&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
