@@ -1,4 +1,4 @@
-### Rushil Bhaveshkumar Patel
+# Rushil Bhaveshkumar Patel
 🔭 Currently working on MERN Stack Development<br>💬 Ask me about MERN & CP
 
 
