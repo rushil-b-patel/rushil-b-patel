@@ -1,4 +1,8 @@
+<div align='center'>
+  
 # Rushil Bhaveshkumar Patel
+
+</div>
 🔭 Currently working on MERN Stack Development<br>💬 Ask me about MERN & CP
 
 
