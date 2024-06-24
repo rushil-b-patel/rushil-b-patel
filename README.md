@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN Stack Development<br>🌱 I’m currently learning DevOps<br>💬 Ask me about MERN & CP
+### Rushil Bhaveshkumar Patel
+🔭 Currently working on MERN Stack Development<br>💬 Ask me about MERN & CP
 
 
 ## 🌐 Socials:
