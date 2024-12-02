@@ -59,6 +59,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rushil-b-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
   </span>
 </div>
----
-
-[![](https://visitcount.itsvg.in/api?id=rushil-b-patel&icon=0&color=0)](https://visitcount.itsvg.in)
