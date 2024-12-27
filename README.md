@@ -48,12 +48,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Miscellaneous
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
 ## Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-b-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br/>
   <span>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushil-b-patel&theme=dark&hide_border=false"/>
     <img src="https://github-readme-stats.vercel.app/api?username=rushil-b-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
